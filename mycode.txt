@@ -1,3 +1,3 @@
-my first code
+my first version of code
 
 my second version of code
